@@ -1,2 +1,3 @@
 # compuational_physics_N2014301020054
-## readme
+## Homework list
++ [exercise01](https://github.com/Arklight666/compuational_physics_N2014301020054/blob/master/exercise01)
