@@ -1,6 +1,6 @@
 # compuational_physics_N2014301020054
 ## Homework list
-+ [Exercise_01:Create a GitHub account and set up a repository]
++[x] [Exercise_01:Create a GitHub account and set up a repository](https://github.com/Arklight666/compuational_physics_N2014301020054)
 + [Exercise_02: Draw my English name](https://www.zybuluo.com/2014301020054/note/505524)
 + [exercise03](https://github.com/Arklight666/compuational_physics_N2014301020054/blob/master/exercise03)
 + [exercise04](https://github.com/Arklight666/compuational_physics_N2014301020054/blob/master/exercise04)
