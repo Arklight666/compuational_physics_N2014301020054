@@ -5,7 +5,7 @@
 ## 背景：
        在课程主页上复习这两次课程的内容，初步掌握python和matplotlib的语法规则
 ## 正文
-       print('To make my name roll you need input 12 firstly')
+        print('To make my name roll you need input 12 firstly')
     a=int(input('input 12:'))
     for i in range(a):
         print(i*' '+'#####             #     ') 
@@ -22,3 +22,4 @@
         import os
         i=os.system('cls')
 ### 作业2(选做未做）
+
