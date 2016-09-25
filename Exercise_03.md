@@ -8,13 +8,14 @@
         print('To make my name roll you need input 12 firstly')
     a=int(input('input 12:'))
     for i in range(a):
-        print(i*' '+'#####             #     ') 
-        print(i*' '+'#    #            #     ') 
-        print(i*' '+'#    #            #     ') 
-        print(i*' '+'#####     ####    ##### ') 
-        print(i*' '+'#    #   #    #   #    #') 
-        print(i*' '+'#    #   #    #   #    #') 
-        print(i*' '+'#####     ####    ##### ') 
+        print (i*' '+'######                                                   ') 
+        print (i*' '+'#     #                   #                              ') 
+        print (i*' '+'#     #       ####     #######       ####       # ###### ') 
+        print (i*' '+'#####       #     #       #        #     #      ##       ') 
+        print (i*' '+'#          # # # #        #       # # # #       #        ') 
+        print (i*' '+'#          #              #       #             #        ') 
+        print (i*' '+'#           #####         ##       #####        #        ') 
+
         if i==a-1:
             break
         import time
