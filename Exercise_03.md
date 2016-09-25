@@ -15,7 +15,6 @@
         print (i*' '+'#          # # # #        #       # # # #       #        ') 
         print (i*' '+'#          #              #       #             #        ') 
         print (i*' '+'#           #####         ##       #####        #        ') 
-
         if i==a-1:
             break
         import time
