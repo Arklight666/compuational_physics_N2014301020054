@@ -5,8 +5,8 @@
 ## 背景：
        在课程主页上复习这两次课程的内容，初步掌握python和matplotlib的语法规则
 ## 正文
-        print('To make my name roll you need input 12 firstly')
-    a=int(input('input 12:'))
+        print('To make my name roll you need input 18 firstly')
+    a=int(input('input 18:'))
     for i in range(a):
         print (i*' '+'######                                                   ') 
         print (i*' '+'#     #                   #                              ') 
@@ -26,4 +26,6 @@
 ### 作业1运行结果
 ![截图1](https://github.com/Arklight666/compuational_physics_N2014301020054/blob/master/%E4%BD%9C%E4%B8%9A3.jpg)
 ![截图2](https://github.com/Arklight666/compuational_physics_N2014301020054/blob/master/%E4%BD%9C%E4%B8%9A3%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C.jpg)
+## 致谢
+
 
