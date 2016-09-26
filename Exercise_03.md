@@ -24,4 +24,5 @@
 ### 作业2(选做未做）
 ## 结论
 ### 作业1运行结果
+![截图1](https://github.com/Arklight666/compuational_physics_N2014301020054/blob/master/%E4%BD%9C%E4%B8%9A3.jpg)
 
