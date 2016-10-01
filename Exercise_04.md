@@ -1,1 +1,1 @@
-![截图](compuational_physics_N2014301020054 / 作业2运行结果.png )
+![截图](https://www.zybuluo.com/static/img/my_head.jpg)
