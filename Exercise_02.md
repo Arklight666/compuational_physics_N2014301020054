@@ -4,7 +4,7 @@
     编写一个python程序，在屏幕上用字母拼出自己的英文名字
 ## 背景介绍
     学习python语言基础，并且熟悉markdown语法
-    p.s: 为了熟悉markdown语法，在作业部落也编辑出了第一份作业，欢迎访问[Eexercise_2: Draw my English name](https://www.zybuluo.com/2014301020054/note/505524)
+p.s: 为了熟悉markdown语法，在作业部落也编辑出了第一份作业，欢迎访问[Eexercise_2: Draw my English name](https://www.zybuluo.com/2014301020054/note/505524)
 ## 正文
 ```python
     print ('######                                                   ')
