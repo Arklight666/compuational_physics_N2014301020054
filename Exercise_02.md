@@ -1,12 +1,10 @@
-# 作业2：Draw my English name
+# 第二次作业
 ## 摘要
-自己用How to think like a computer scientist – Learning with Python: Interactive Edition 2.0进行python语法练习
-
-编写一个python程序，在屏幕上用字母拼出自己的英文名字
+    自己用How to think like a computer scientist – Learning with Python: Interactive Edition 2.0进行python语法练习
+    编写一个python程序，在屏幕上用字母拼出自己的英文名字
 ## 背景介绍
-学习python语言基础，并且熟悉markdown语法
-
-p.s:为了熟悉markdown语法，在作业部落也编辑出了第一份作业，欢迎访问[Eexercise_2:Draw my English name](https://www.zybuluo.com/2014301020054/note/505524)
+    学习python语言基础，并且熟悉markdown语法
+    p.s: 为了熟悉markdown语法，在作业部落也编辑出了第一份作业，欢迎访问[Eexercise_2: Draw my English name](https://www.zybuluo.com/2014301020054/note/505524)
 ## 正文
 ```python
     print ('######                                                   ')
