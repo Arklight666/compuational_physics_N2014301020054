@@ -5,7 +5,7 @@
 - [x] [Exercise_03:Roll the name on the screen](https://github.com/Arklight666/compuational_physics_N2014301020054/blob/master/Exercise_03.md)
 - [x] [Exercise_04:Decay Simulation](https://www.zybuluo.com/2014301020054/note/525892)
 - [x] [Exercise_05:The trajectory of a cannon shell](https://www.zybuluo.com/2014301020054/note/533986)
-- [ ] [Exercise_06]
+- [ ] [Exercise_06:The trajectory of a cannon shell_2](https://www.zybuluo.com/2014301020054/note/542419)
 - [ ] [Exercise_07]
 - [ ] [Exercise_08]
 - [ ] [Exercise_09]
