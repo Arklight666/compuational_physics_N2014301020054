@@ -15,7 +15,7 @@
 - [x] [Exercise_04:Decay Simulation](https://www.zybuluo.com/2014301020054/note/525892)
 - [x] [Exercise_05:The trajectory of a cannon shell](https://www.zybuluo.com/2014301020054/note/533986)
 - [x] [Exercise_06:The trajectory of a cannon shell_2](https://www.zybuluo.com/2014301020054/note/542419)
-- [ ] [Exercise_07:Chaos in the driven nonlinear pendulum](https://www.zybuluo.com/xieqiaowang/note/550399)
+- [ ] [Exercise_07:Chaos in the driven nonlinear pendulum](https://www.zybuluo.com/2014301020054/note/550413)
 - [ ] [Exercise_08]
 - [ ] [Exercise_09]
 - [ ] [Exercise_10]
