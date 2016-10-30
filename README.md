@@ -1,4 +1,6 @@
 # computational_physics_N2014301020054
+## Name: 陈佩卓
+## Student number: 2014301020054
 ## Homework list
 - [x] [Exercise_01:Create a GitHub account and set up a repository](https://github.com/Arklight666/compuational_physics_N2014301020054)
 - [x] [Exercise_02:Draw my English name](https://github.com/Arklight666/compuational_physics_N2014301020054/blob/master/Exercise_02.md)
