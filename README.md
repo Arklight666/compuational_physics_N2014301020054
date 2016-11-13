@@ -15,8 +15,8 @@
 - [x] [Exercise_04:Decay Simulation](https://www.zybuluo.com/2014301020054/note/525892)
 - [x] [Exercise_05:The trajectory of a cannon shell](https://www.zybuluo.com/2014301020054/note/533986)
 - [x] [Exercise_06:The trajectory of a cannon shell_2](https://www.zybuluo.com/2014301020054/note/542419)
-- [ ] [Exercise_07:Oscillatory and Motion and Chaos](https://www.zybuluo.com/2014301020054/note/550413)
-- [ ] [Exercise_08]
+- [X] [Exercise_07:Oscillatory and Motion and Chaos](https://www.zybuluo.com/2014301020054/note/550413)
+- [ ] [Exercise_08:Route to chaos:Period doubling](https://www.zybuluo.com/2014301020054/note/566025)
 - [ ] [Exercise_09]
 - [ ] [Exercise_10]
 - [ ] [Exercise_11]
