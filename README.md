@@ -17,8 +17,8 @@
 - [x] [Exercise_06:The trajectory of a cannon shell_2](https://www.zybuluo.com/2014301020054/note/542419)
 - [x] [Exercise_07:Oscillatory and Motion and Chaos](https://www.zybuluo.com/2014301020054/note/550413)
 - [x] [Exercise_08:Route to chaos:Period doubling](https://www.zybuluo.com/2014301020054/note/566025)
-- [ ] [Exercise_09:The Billiard Problem](https://www.zybuluo.com/2014301020054/note/573750)
-- [ ] [Exercise_10]
+- [x] [Exercise_09:The Billiard Problem](https://www.zybuluo.com/2014301020054/note/573750)
+- [ ] [Exercise_10: Precession of the Perihelion of Mercury](https://www.zybuluo.com/2014301020054/note/581851)
 - [ ] [Exercise_11]
 - [ ] [Exercise_12]
 - [ ] [Exercise_13]
