@@ -18,8 +18,8 @@
 - [x] [Exercise_07:Oscillatory and Motion and Chaos](https://www.zybuluo.com/2014301020054/note/550413)
 - [x] [Exercise_08:Route to chaos:Period doubling](https://www.zybuluo.com/2014301020054/note/566025)
 - [x] [Exercise_09:The Billiard Problem](https://www.zybuluo.com/2014301020054/note/573750)
-- [x] [Exercise_10: Precession of the Perihelion of Mercury](https://www.zybuluo.com/2014301020054/note/581851)
-- [ ] [Exercise_11:Chaotic Tumbling of Hyperion](https://www.zybuluo.com/2014301020054/note/590119)
-- [ ] [Exercise_12]
+- [x] [Exercise_10:Precession of the Perihelion of Mercury](https://www.zybuluo.com/2014301020054/note/581851)
+- [x] [Exercise_11:Chaotic Tumbling of Hyperion](https://www.zybuluo.com/2014301020054/note/590119)
+- [ ] [Exercise_12:Electric Potential and Fields](https://www.zybuluo.com/2014301020054/note/597926)
 - [ ] [Exercise_13]
 - [ ] [Exercise_14]
