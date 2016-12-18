@@ -20,6 +20,6 @@
 - [x] [Exercise_09:The Billiard Problem](https://www.zybuluo.com/2014301020054/note/573750)
 - [x] [Exercise_10:Precession of the Perihelion of Mercury](https://www.zybuluo.com/2014301020054/note/581851)
 - [x] [Exercise_11:Chaotic Tumbling of Hyperion](https://www.zybuluo.com/2014301020054/note/590119)
-- [ ] [Exercise_12:Electric Potential and Fields](https://www.zybuluo.com/2014301020054/note/597926)
-- [ ] [Exercise_13]
+- [x] [Exercise_12:Electric Potential and Fields](https://www.zybuluo.com/2014301020054/note/597926)
+- [ ] [Exercise_13:Waves](https://www.zybuluo.com/2014301020054/note/604982)
 - [ ] [Exercise_14]
